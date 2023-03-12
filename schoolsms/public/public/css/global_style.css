@@ -1,0 +1,20 @@
+.bs-pagination {
+    float: right;
+}
+
+.classic-btn {
+    background-color: #2A3F54;
+    color: #fff;
+}
+
+.classic-btn1 {
+    background-color: #BEBCBC;
+}
+
+.classic-btn:hover{
+    color: #fff;
+}
+
+.page-data tr {
+    padding: 0px;
+}
